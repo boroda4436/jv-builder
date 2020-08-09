@@ -8,7 +8,7 @@ public class HelloWorld {
         int hello = 10;
         int world = 15;
         int result = hello + world;
-        result = 10;
+        result = 11;
         System.out.println(result);
         System.out.println("Hello sonar cloud!");    
     }
