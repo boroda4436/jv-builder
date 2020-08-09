@@ -10,5 +10,6 @@ public class HelloWorld {
         int result = hello + world;
         result = 10;
         System.out.println(result);
+        System.out.println("Hello sonar cloud!");    
     }
 }
